@@ -1,0 +1,13 @@
+h1{
+    background-color: aqua;
+}
+p{
+    text-shadow: 10px;
+}
+h6{
+    text-decoration: overline;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
